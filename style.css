@@ -286,7 +286,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 55%;}
 }
 
 .skills .skill .htmlcss{
@@ -295,7 +295,7 @@ html{
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 89%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .photoshop{
